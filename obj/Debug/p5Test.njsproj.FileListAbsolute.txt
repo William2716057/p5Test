@@ -1,0 +1,3 @@
+C:\Users\wills\Desktop\Shortcuts\Files\Github\p5Test\p5Test\obj\Debug\p5Test.njsproj.AssemblyReference.cache
+C:\Users\wills\Desktop\Shortcuts\Files\Github\p5Test\p5Test\obj\Debug\p5Test.njsproj.CoreCompileInputs.cache
+C:\Users\wills\Desktop\Shortcuts\Files\Github\p5Test\p5Test\bin\Microsoft.NodejsTools.WebRole.dll
