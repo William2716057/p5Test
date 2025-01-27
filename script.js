@@ -8,9 +8,8 @@ function setup() {
 
 function draw() {
     if (mouseIsPressed) {
-        //noFill();
         stroke(255, 50);
-        strokeWeight(2);
+        strokeWeight(20);
         line(prevX, prevY, mouseX, mouseY);
         prevX = mouseX;
         prevY = mouseY;
