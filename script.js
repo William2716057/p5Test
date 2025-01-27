@@ -18,5 +18,6 @@ function draw() {
 }
 
 function mousePressed() {
-    background(0);
+    prevX = mouseX;
+    prevY = mouseY;
 }
